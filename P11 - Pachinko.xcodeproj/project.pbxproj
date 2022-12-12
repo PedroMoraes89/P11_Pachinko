@@ -9,24 +9,24 @@
 /* Begin PBXBuildFile section */
 		09727D94293E2DC1002A25BA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09727D93293E2DC1002A25BA /* AppDelegate.swift */; };
 		09727D96293E2DC1002A25BA /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 09727D95293E2DC1002A25BA /* GameScene.sks */; };
-		09727D98293E2DC1002A25BA /* Actions.sks in Resources */ = {isa = PBXBuildFile; fileRef = 09727D97293E2DC1002A25BA /* Actions.sks */; };
 		09727D9A293E2DC1002A25BA /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09727D99293E2DC1002A25BA /* GameScene.swift */; };
 		09727D9C293E2DC1002A25BA /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09727D9B293E2DC1002A25BA /* GameViewController.swift */; };
 		09727D9F293E2DC1002A25BA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 09727D9D293E2DC1002A25BA /* Main.storyboard */; };
 		09727DA1293E2DC2002A25BA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 09727DA0293E2DC2002A25BA /* Assets.xcassets */; };
 		09727DA4293E2DC2002A25BA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 09727DA2293E2DC2002A25BA /* LaunchScreen.storyboard */; };
+		097F098B29478CD600D1E945 /* FireParticles.sks in Resources */ = {isa = PBXBuildFile; fileRef = 097F098A29478CD600D1E945 /* FireParticles.sks */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		09727D90293E2DC1002A25BA /* P11 - Pachinko.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "P11 - Pachinko.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		09727D93293E2DC1002A25BA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		09727D95293E2DC1002A25BA /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
-		09727D97293E2DC1002A25BA /* Actions.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Actions.sks; sourceTree = "<group>"; };
 		09727D99293E2DC1002A25BA /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
 		09727D9B293E2DC1002A25BA /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
 		09727D9E293E2DC1002A25BA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		09727DA0293E2DC2002A25BA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		09727DA3293E2DC2002A25BA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		097F098A29478CD600D1E945 /* FireParticles.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; name = FireParticles.sks; path = "../../../../../Downloads/HackingWithSwift-main/Classic/Content/FireParticles.sks"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,12 +61,12 @@
 			children = (
 				09727D93293E2DC1002A25BA /* AppDelegate.swift */,
 				09727D95293E2DC1002A25BA /* GameScene.sks */,
-				09727D97293E2DC1002A25BA /* Actions.sks */,
 				09727D99293E2DC1002A25BA /* GameScene.swift */,
 				09727D9B293E2DC1002A25BA /* GameViewController.swift */,
 				09727D9D293E2DC1002A25BA /* Main.storyboard */,
 				09727DA0293E2DC2002A25BA /* Assets.xcassets */,
 				09727DA2293E2DC2002A25BA /* LaunchScreen.storyboard */,
+				097F098A29478CD600D1E945 /* FireParticles.sks */,
 			);
 			path = "P11 - Pachinko";
 			sourceTree = "<group>";
@@ -131,9 +131,9 @@
 			files = (
 				09727D9F293E2DC1002A25BA /* Main.storyboard in Resources */,
 				09727D96293E2DC1002A25BA /* GameScene.sks in Resources */,
+				097F098B29478CD600D1E945 /* FireParticles.sks in Resources */,
 				09727DA1293E2DC2002A25BA /* Assets.xcassets in Resources */,
 				09727DA4293E2DC2002A25BA /* LaunchScreen.storyboard in Resources */,
-				09727D98293E2DC1002A25BA /* Actions.sks in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
