@@ -14,6 +14,7 @@
 		09727D9F293E2DC1002A25BA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 09727D9D293E2DC1002A25BA /* Main.storyboard */; };
 		09727DA1293E2DC2002A25BA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 09727DA0293E2DC2002A25BA /* Assets.xcassets */; };
 		09727DA4293E2DC2002A25BA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 09727DA2293E2DC2002A25BA /* LaunchScreen.storyboard */; };
+		097F098B29478CD600D1E945 /* FireParticles.sks in Resources */ = {isa = PBXBuildFile; fileRef = 097F098A29478CD600D1E945 /* FireParticles.sks */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		09727D9E293E2DC1002A25BA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		09727DA0293E2DC2002A25BA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		09727DA3293E2DC2002A25BA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		097F098A29478CD600D1E945 /* FireParticles.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; name = FireParticles.sks; path = "../../../../../Downloads/HackingWithSwift-main/Classic/Content/FireParticles.sks"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				09727D9D293E2DC1002A25BA /* Main.storyboard */,
 				09727DA0293E2DC2002A25BA /* Assets.xcassets */,
 				09727DA2293E2DC2002A25BA /* LaunchScreen.storyboard */,
+				097F098A29478CD600D1E945 /* FireParticles.sks */,
 			);
 			path = "P11 - Pachinko";
 			sourceTree = "<group>";
@@ -128,6 +131,7 @@
 			files = (
 				09727D9F293E2DC1002A25BA /* Main.storyboard in Resources */,
 				09727D96293E2DC1002A25BA /* GameScene.sks in Resources */,
+				097F098B29478CD600D1E945 /* FireParticles.sks in Resources */,
 				09727DA1293E2DC2002A25BA /* Assets.xcassets in Resources */,
 				09727DA4293E2DC2002A25BA /* LaunchScreen.storyboard in Resources */,
 			);
